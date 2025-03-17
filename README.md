@@ -17,8 +17,8 @@ Bu proje, [https://gega-project.netlify.app/](#) temel alınarak **HTML, Tailwin
 Projeyi klonla ve çalıştır:  
 ```sh
 git clone https://github.com/enginyz/Arin-Clone-Project.git
+```
 
-```   
 ✅ Daha sonra index.html dosyasını açarak çalıştırabilirsin!   
 
 
